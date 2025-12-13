@@ -21,3 +21,5 @@ Create a shortcut in `shell:startup` folder.
 - `polling_tray.pyw` - main program
 - `polling_rate.json` - last saved rate
 
+SOURCE CODE : polling_tray.cpp
+FULL VERSION : polling_tray.exe
