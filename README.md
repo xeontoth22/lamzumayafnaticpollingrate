@@ -1,3 +1,8 @@
+https://www.virustotal.com/gui/file/90dab9ef136f367e940c7d270fcb46558e57ea3c75308a58e98bbca0e1b968d8/detection
+
+<img width="1009" height="1054" alt="image" src="https://github.com/user-attachments/assets/603385ce-5c4b-400b-8e9f-2d88b050fa32" />
+
+
 # LAMZU Polling Rate Tray
 
 System tray utility to switch polling rate on LAMZU 8K mice.
@@ -26,3 +31,4 @@ FULL VERSION : polling_tray.exe
 
 <img width="380" height="412" alt="image" src="https://github.com/user-attachments/assets/366cb4e5-3243-4294-8182-05fc696b8050" />
 <img width="170" height="260" alt="image" src="https://github.com/user-attachments/assets/ad75fa9d-a9fc-4a08-a08f-059b575fa285" />
+
